@@ -18,6 +18,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="c" src="https://github-readme-stats.codestackr.vercel.app/api?username=neron7f&show_icons=true&hide_border=true" />
+  <img align="left" alt="c" src="https://github-readme-stats.codestackr.vercel.app/api?username=NeroN7F&show_icons=true&hide_border=true" />
 
 </details>
