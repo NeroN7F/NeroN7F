@@ -15,5 +15,9 @@
 
 <br />
 
-[![](https://github-readme-stats.vercel.app/api?username=neron7f)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="c" src="https://github-readme-stats.codestackr.vercel.app/api?username=neron7f&show_icons=true&hide_border=true" />
+
+</details>
